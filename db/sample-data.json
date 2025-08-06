@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "info": "Vinoth Kumar",
+        "description": "Masters from Periyar University"
+    },
+    {
+        "id": 2,
+        "info": "Education",
+        "description": "Masters in M.Sc Software engineering 5 year integrated course from Periyar University"
+    },
+    {
+        "id": 3,
+        "info": "Experience",
+        "description": "16 years of experience in web development industry"
+    },
+    {
+        "id": 4,
+        "info": "Skills",
+        "description": "PHP, MySQL, Next.js, TailwindCSS, Material UI, SSR, SSG, ISR, Git, Front-end, Lead,"
+    },
+    {
+        "id": 4,
+        "info": "Address",
+        "description": "Currently I am living in Villa 148, Allaince Bougainvilla, Iyyappanthangal, Chennai 600054. I born in Ramachandrapuram, Thirumayam Taluk, Pudukkottai District and his parents are Kalyaanasundaram and Mrs.Vidhya Devi"
+    },
+    {
+        "id": 4,
+        "info": "Personal information",
+        "description": "In 1999-2000 academic year, My father Kalyaanasundaram he worked in Tamilnadu Electricity Board and he retired on 2008 from the department, got transffered to Dharampuri District. Since 2000 they were stayed in dharmapuri district till 2019. Vidhya Devi has completed M.A graduate and she completed Master of Arts in History and she worked in Babuji nursery school as a Head Master from 1987 to 2000"
+    }
+]
