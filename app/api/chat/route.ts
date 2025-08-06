@@ -37,7 +37,6 @@ Now answer this user question based on the resume:
     const chatCompletion = await groq.chat.completions.create({
       messages: [{ role: "user", content: prompt }],
       model: "llama3-70b-8192",
-      signal: controller.signal,
     });
 
     clearTimeout(timeout);
