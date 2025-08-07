@@ -1,7 +1,7 @@
 'use client';
 import Image from 'next/image'
 import Link from 'next/link';
-import Me from '@/public/vinoth.jpg'
+import Me from '@/public/vinoth.png'
 import { useState } from 'react';
 import { useChat } from "ai/react";
 
