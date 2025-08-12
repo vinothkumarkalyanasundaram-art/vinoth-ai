@@ -12,7 +12,6 @@ export async function POST(req: Request) {
 
     const pdfPath = path.join(process.cwd(), "db", "VinothKumar-Next-Portal-Resume.pdf");
 
-    // Optional permission fix (for Unix, not needed in Windows usually)
     fs.chmod(pdfPath, 0o777, (err) => {
       if (err) console.error("chmod failed:", err);
     });
