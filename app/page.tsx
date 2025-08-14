@@ -85,7 +85,7 @@ export default function Home() {
                 <>
                 <h1 className="text-2xl text-center">Experience AI Conversations Like Never Before</h1>
                   <div className="my-8">
-                    This AI assistant is powered by advanced natural language processing technology, designed to understand your queries and respond in real-time. Whether you want to discuss technology, coding, or just have a friendly chat — it’s ready for you 24/7.
+                    This AI assistant is powered by advanced natural language processing technology, designed to understand your queries and respond in real-time realted to Vinoth Kumar's Profile. Whether you want to discuss about his skill, technology, coding. it’s ready for you 24/7.
                   </div>
                 </>
               )}
